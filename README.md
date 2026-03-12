@@ -4,12 +4,11 @@
 
 Let me tell you a little about myself.
 
-I’m a **Full Stack Developer** focused on building modern web and mobile applications.  
-My main stack revolves around the **MERN ecosystem**, and I also build performant applications using **Next.js** and **Expo (React Native)**.
+I build **web and mobile applications** using technologies like **MongoDB, Express, React, and Node.js**, along with **Next.js** for modern web apps and **Expo (React Native)** for mobile development.
 
-I enjoy turning ideas into real products — from designing backend systems and APIs to building responsive frontends and mobile apps.
+I enjoy taking ideas from concept to product — designing APIs, building backend systems, and creating fast, responsive user interfaces.
 
-Alongside development, I actively strengthen my **problem-solving skills through Data Structures and Algorithms**, regularly solving challenges on LeetCode.
+Alongside development, I continuously improve my **problem-solving skills through Data Structures and Algorithms**, regularly solving challenges on LeetCode.
 
 You can check out my LeetCode profile here:  
 👉 **LeetCode:** https://leetcode.com/u/shlokkohli11/
@@ -19,7 +18,8 @@ You can check out my LeetCode profile here:
 ## 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,expo,docker,git,neovim" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,docker,git,neovim" />
+<img src="https://cdn.simpleicons.org/expo/000000" height="48" alt="expo logo"/>
 </p>
 
 ---
