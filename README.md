@@ -6,7 +6,7 @@ I build **web and mobile applications** using technologies like **MongoDB, Postg
 
 I enjoy taking ideas from concept to product — designing APIs, building backend systems, and creating fast, responsive user interfaces.
 
-Alongside development, I continuously work on improving my **problem-solving skills through Data Structures and Algorithms**, regularly solving challenges on <a href="https://leetcode.com/u/shlokkohli11/" target="_blank">LeetCode</a>.
+Alongside development, I continuously work on improving my **problem-solving skills through Data Structures and Algorithms**, regularly solving challenges on <a href="https://leetcode.com/u/shlokkohli/" target="_blank">LeetCode</a>.
 
 ---
 
