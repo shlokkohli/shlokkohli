@@ -15,8 +15,17 @@ Alongside development, I continuously improve my **problem-solving skills throug
 ## 🛠 Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,nextjs,nodejs,react,docker,git,neovim" />
-<img src="https://cdn.simpleicons.org/expo/000000" height="48" alt="expo logo"/>
+
+<img src="https://skillicons.dev/icons?i=js" height="48"/>
+<img src="https://skillicons.dev/icons?i=ts" height="48"/>
+<img src="https://cdn.simpleicons.org/expo/4630EB" height="48"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="48"/>
+<img src="https://skillicons.dev/icons?i=react" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker" height="48"/>
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+<img src="https://skillicons.dev/icons?i=neovim" height="48"/>
+
 </p>
 
 ---
