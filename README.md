@@ -2,7 +2,7 @@
 
 ### Full Stack Web & App Developer
 
-Let me tell you a little about myself.
+## About Me:
 
 I build **web and mobile applications** using technologies like **MongoDB, Express, React, and Node.js**, along with **Next.js** for modern web apps and **Expo (React Native)** for mobile development.
 
