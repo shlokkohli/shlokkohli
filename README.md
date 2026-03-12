@@ -4,7 +4,7 @@
 
 ## About Me:
 
-I build **web and mobile applications** using technologies like **MongoDB, Express, React, and Node.js**, along with **Next.js** for modern web apps and **Expo (React Native)** for mobile development.
+I build **web and mobile applications** using technologies like **MongoDB, Postgre, Express, React, and Node.js**, along with **Next.js** for modern web apps and **Expo (React Native)** for mobile development.
 
 I enjoy taking ideas from concept to product — designing APIs, building backend systems, and creating fast, responsive user interfaces.
 
